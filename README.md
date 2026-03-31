@@ -7,7 +7,7 @@ This project showcases a clean UI design for an e-commerce product page.
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/timeless-watches-store/
+👉  https://vikaspawar-dev.github.io/timeless-watches-store/
 
 ---
 
